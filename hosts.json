@@ -1,0 +1,38 @@
+{
+    "CORE": [
+        {
+            "host": "ubuntu@65.0.101.62",
+            "conf": {}
+        }
+    ],
+    "LC": [
+        {
+            "host": "ubuntu@65.0.101.62",
+            "conf": {
+                "eth": "ens5"
+            }
+        }
+    ],
+    "DL": [
+        {
+            "host": "ubuntu@13.234.116.144",
+            "conf": {
+                "eth": "ens5"
+            }
+        },
+        {
+            "host": "ubuntu@35.154.169.65",
+            "conf": {
+                "eth": "ens5"
+            }
+        }
+    ],
+    "AD": [
+        {
+            "host": "ubuntu@15.207.106.28",
+            "conf": {
+                "eth": "ens5"
+            }
+        }
+    ]
+}
